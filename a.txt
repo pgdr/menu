@@ -6,9 +6,9 @@ Sandwich
 
 # Middag
 
-lasagne
-hamburger
-pizza
+Lasagne
+Hamburger
+Pizza
 
 # Dessert
 
