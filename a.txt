@@ -1,9 +1,15 @@
+# Frokost
+
 egg
 sandwich
+
+# Middag
 
 lasagne
 hamburger
 pizza
+
+# Dessert
 
 tiramisu
 kaffi
