@@ -7,7 +7,7 @@ Sandwich
 # Middag
 
 Lasagne
-Hamburger
+Hamberger
 Pizza
 
 # Dessert
