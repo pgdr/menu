@@ -1,6 +1,7 @@
 # Frokost
 
 egg
+bacon
 sandwich
 
 # Middag
