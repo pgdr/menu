@@ -17,4 +17,5 @@
 # Drikke
 
 * kaffi
+* vin
 * øl
