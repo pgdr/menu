@@ -12,9 +12,9 @@
 
 # Dessert
 
-* tiramisu
+* Tiramisu
 
 # Drikke
 
-* kaffi
-* øl
+* Kaffi
+* Øl
