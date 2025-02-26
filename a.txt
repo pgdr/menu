@@ -1,8 +1,8 @@
 # Frokost
 
-egg
-bacon
-sandwich
+Egg
+Bacon
+Sandwich
 
 # Middag
 
