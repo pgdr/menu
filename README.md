@@ -19,3 +19,4 @@
 * Kaffi
 * Vin
 * Øl
+* Vann
