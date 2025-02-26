@@ -1,21 +1,20 @@
 # Frokost
 
-Egg
-Bacon
-Sandwich
+* Egg
+* Bacon
+* Sandwich
 
 # Middag
 
-Lasagne
-Hamberger
-Pizza
+* Lasagne
+* Hamberger
+* Pizza
 
 # Dessert
 
-tiramisu
+* tiramisu
 
 # Drikke
 
-kaffi
-øl
-
+* kaffi
+* øl
